@@ -5,3 +5,6 @@ Este repositorio es para los trabajos del diplomado en inteligencia artificial U
 
 
 [Regresión lineal nbviewer](https://nbviewer.jupyter.org/github/QcoJuanDavidMarin/repo_Diplomado_I_A/blob/main/RegresionLinealJDM.ipynb)
+
+
+[Regresión lineal HTML](https://github.com/QcoJuanDavidMarin/repo_Diplomado_I_A/blob/main/RegresionLinealJDM.html)
