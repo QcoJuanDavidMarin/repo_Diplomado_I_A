@@ -12,5 +12,8 @@ Este repositorio es para los trabajos del diplomado en inteligencia artificial U
 
 
 **Aplicación Taller de Pandas**
+
 [Taller Pandas nbviewer](https://dfm.io/nbview/?url=https%3A%2F%2Fgithub.com%2FQcoJuanDavidMarin%2Frepo_Diplomado_I_A%2Fblob%2Fmain%2FTaller_Pandas_JDM.ipynb)
+
+[Taller Pandas HTML](https://htmlpreview.github.io/?https://github.com/QcoJuanDavidMarin/repo_Diplomado_I_A/blob/main/Taller_Pandas_JDM.html)
 
