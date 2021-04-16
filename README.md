@@ -20,4 +20,5 @@ Este repositorio es para los trabajos del diplomado en inteligencia artificial U
 
 
 **$Diplomado IA temas$**
+
 [Temas diplomado](https://github.com/AprendizajeProfundo/Diplomado/tree/master/Temas)
