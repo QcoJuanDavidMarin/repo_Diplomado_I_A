@@ -17,3 +17,7 @@ Este repositorio es para los trabajos del diplomado en inteligencia artificial U
 
 [Taller Pandas HTML](https://htmlpreview.github.io/?https://github.com/QcoJuanDavidMarin/repo_Diplomado_I_A/blob/main/Taller_Pandas_JDM.html)
 
+
+
+**$Diplomado IA temas$**
+[Temas diplomado](https://github.com/AprendizajeProfundo/Diplomado/tree/master/Temas)
